@@ -8,3 +8,6 @@ A Javascript Glitch Sampler<br>
 - HTML
 - CSS
 - Responsive
+
+## Description
+Press alphabet letters keys to play a glitch sound sample
